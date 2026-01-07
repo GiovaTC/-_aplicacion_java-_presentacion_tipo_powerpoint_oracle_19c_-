@@ -6,7 +6,7 @@ import java.sql.DriverManager;
 public class DatabaseConnection {
 
     private static final String URL =
-            "jdbc:oracle:thin:@localhost:1521/ORCLPDB";
+            "jdbc:oracle:thin:@//localhost:1521/orcl";
     private static final String USER = "system";
     private static final String PASS = "Tapiero123";
 
