@@ -2,7 +2,9 @@
 # Aplicación Java – Presentación tipo PowerPoint con Oracle 19c .
 **Arquitectura por capas | IntelliJ IDEA | Swing | JDBC**
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/749f4f50-229f-4a49-abf5-2c2c87912e7b" />          
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/749f4f50-229f-4a49-abf5-2c2c87912e7b" />           
+ 
+<img width="2551" height="1079" alt="image" src="https://github.com/user-attachments/assets/83994762-c870-4c75-a652-1fdc4a7bec35" /> 
 
 A continuación se presenta una **solución completa, profesional y alineada con arquitectura por capas**, desarrollada en **Java (IntelliJ IDEA)**, que cumple con los siguientes requisitos :
 
