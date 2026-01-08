@@ -11,4 +11,4 @@ public class SlideService {
         Slide slide = new Slide(title, data);
         dao.save(slide);
     }
-}   
+}
